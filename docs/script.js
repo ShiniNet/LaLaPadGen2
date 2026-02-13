@@ -28,10 +28,13 @@
   var showcaseImage = document.getElementById('showcase-image');
   var showcaseButtons = document.querySelectorAll('.showcase-btn');
   var showcaseImages = [
-    'images/usecase1.png',
-    'images/usecase2.png',
-    'images/product1.png',
-    'images/product2.png.png'
+    'images/product_1 - IMG_20260213_150237.png',
+    'images/product_2 - IMG_20260213_152422.png',
+    'images/product_3 - IMG_20260213_152158.png',
+    'images/product_4 - IMG_20260213_152008.png',
+    'images/product_5 - IMG_20260213_151443.png',
+    'images/product_6 - IMG_20260213_151049.png',
+    'images/product_7 - IMG_20260213_150504.png'
   ];
 
   if (showcaseImage && showcaseButtons.length) {
