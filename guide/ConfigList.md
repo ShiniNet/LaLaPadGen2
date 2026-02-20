@@ -1,5 +1,8 @@
 # LalaPadGen2で設定可能なコンフィグ一覧
 ## トラックパッド（IQS9151）
+
+- "lalapadgen2_right.conf"、"lalapadgen2_left.conf"がそれぞれ左右トラックパッドのコンフィグに対応しています。
+
 | Kconfig名 | デフォルト値 | 有効範囲/選択肢 | 概要 |
 | --- | --- | --- | --- |
 | `CONFIG_INPUT_IQS9151` | `y` | `y/n` | IQS9151ドライバの有効化 |
