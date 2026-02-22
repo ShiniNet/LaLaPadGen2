@@ -45,7 +45,7 @@
 ### 別途用意するもの
 | 名前 | 数 | 備考 |参考商品|
 |:-|---:|:-|:-|
-|Seeed Studio XIAO nRF52840 Plus|2個|XIAO BLEの新バージョンです。9本の追加GPIOが使用でき、より高機能なデバイスに適しています。|[遊舎工房](https://shop.yushakobo.jp/products/10946) [beekeeb.jp](https://shop.beekeeb.jp/products/seeed-studio-xiao-nrf52840-plus) [千石電商](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-6TTL) [スイッチサイエンス](https://www.switch-science.com/products/10468)|
+|Seeed Studio XIAO nRF52840 Plus|2個|マイコン本体。XIAO BLEの新バージョンです。9本の追加GPIOが使用でき、より高機能なデバイスに適しています。|[遊舎工房](https://shop.yushakobo.jp/products/10946) [beekeeb.jp](https://shop.beekeeb.jp/products/seeed-studio-xiao-nrf52840-plus) [千石電商](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-6TTL) [スイッチサイエンス](https://www.switch-science.com/products/10468)|
 |Kailh Choc V2互換スイッチ|42個|静音ではDeepSeaMiniがおすすめ。鳴らしつつ打鍵感の軽さを求める場合、COSMOXのShadow huntingをPBTキーキャップと組み合わせるとコリコリ感があって好みです。個人的な意見です。|[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/kailh-chocv2) [遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V2%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) [Amazon](https://www.amazon.co.jp/dp/B0DSSS4MYJ/) |
 |MX軸ロープロファイルキーキャップ|42個|入手性の高さ、バリエーションの豊富さからWomierのPBTキーキャップをおすすめしています。 ※19mmピッチ用且つ、サイズは1Uが38個、1.5Uが4個必要です。|[Womier](https://womierkeyboard.com/products/skyline-r2) [Amazon](https://www.amazon.co.jp/stores/page/90526727-85E5-4BF8-AAD2-FC8A78C07BE3/search?ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto&terms=%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD)|
 |3.7Vリチウムポリマーバッテリー|2個|厚さ6.3mm幅47mm長さ110mm以下、JST PHコネクタ（ソケットのピッチ2.0mm）※[ソケットの極性に注意！](#%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)|[Amazon](https://www.amazon.co.jp/dp/B09DRJS75J/) [PHコネクタ単品](https://www.amazon.co.jp/dp/B01MXGWMS5/) |
