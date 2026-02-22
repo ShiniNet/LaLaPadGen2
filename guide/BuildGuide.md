@@ -1,5 +1,3 @@
-# ビルドガイド
-
 > [!TIP]
 > 本ページは LaLapad Gen2 のビルドガイドです。  
 
@@ -101,11 +99,12 @@
 
 ### PCBの前処理
 - ニッパー等で赤丸で囲ったライナー部分をカットします。（素手でも折れると思います
-![IMG_20260212_174359](https://github.com/user-attachments/assets/b21f188c-164f-4d8c-96d5-25078217969b)
+
+<img width="2058" height="768" alt="2026-02-22_19h42_47" src="https://github.com/user-attachments/assets/c0009840-4969-43ea-9bb8-3fd0595d3fa5" />
 
 > [!WARNING]
 > - スイッチを巻き込まない用に注意！スイッチとは反対方向に折り曲げて分離するようにしてください。
-![IMG_20260212_174444](https://github.com/user-attachments/assets/9374a169-0e51-4194-8f94-6db79d83cdc8)
+<img width="1024" height="524" alt="2026-02-22_19h45_04" src="https://github.com/user-attachments/assets/7d9ac846-3eb1-41e4-855a-a9804c664079" />
 
 
 - メイン基板とトラックパッド基盤のバリ取りをします（任意）
@@ -136,9 +135,10 @@
 > [!WARNING]
 > - マイコンはPCBの裏面に固定してください。ソケットやIC類が実装されている面です。
 
-<img width="2343" height="1081" alt="2026-02-22_19h11_49" src="https://github.com/user-attachments/assets/e51c00bd-5f3e-4c65-b89a-11d11e81e2f0" />
-
-<BR>
+<img width="2343" height="1081" alt="2026-02-22_19h11_49" src="https://github.com/user-attachments/assets/e51c00bd-5f3e-4c65-b89a-11d11e81e2f0" /><BR/> 
+  
+<BR/>  
+  
 - ピンヘッダが刺さっていない方のピンをはんだ付けしていきます。
 
 > [!TIP]
@@ -147,12 +147,23 @@
 > - 十分なフラックスと、流し込むはんだの量が適切なら、こて先をスライドさせることで勝手にはんだの表面張力で接合されていきます。
 > - はんだが多すぎてブリッジしてしまった場合、落ち着いてフラックスを追加し、はんだ吸い取り線で余分なはんだを除去します。
 
-<img width="2615" height="1080" alt="2026-02-22_19h17_11" src="https://github.com/user-attachments/assets/f9d9049d-119a-4f29-9c6e-57074507eb8f" />
-
+<img width="2615" height="1080" alt="2026-02-22_19h17_11" src="https://github.com/user-attachments/assets/f9d9049d-119a-4f29-9c6e-57074507eb8f" /><BR/> 
 
 - ピンヘッダを取り外し、残りのピンもはんだ付けしていきます。
 
-- マイコン背面端子をはんだづけします
+> [!WARNING]
+> - ピンヘッダはなるべく垂直にゆっくり引き抜き、マイコンに応力がかからないように注意してください。はんだ済みのピンがPCBのランドごと剥がれてしまいます。
+
+<img width="2121" height="1080" alt="2026-02-22_19h40_38" src="https://github.com/user-attachments/assets/31ddc20a-95b2-42ab-a42b-eb85761e4006" /><BR/> 
+
+- マイコン背面端子をはんだづけします（4ピン）
+
+> [!TIP]
+> - 端子にフラックスを塗布し、K型の小手先で加熱しながらはんだを流し込んでいきます。
+> - マイコンのバッテリ端子の露出が極狭（画像2枚目）なので、K型こて先の先端を上手く使ってマイコン背面端子とPCBの端面スルーホールを加熱してください。
+> - 大量のフラックスとはんだを流し込み、わざとブリッジさせてからはんだ吸い取り線で余分なはんだを除去する手法も有効です。
+
+<img width="1665" height="768" alt="2026-02-22_20h00_16" src="https://github.com/user-attachments/assets/43663235-e21a-4c00-b2c1-ded590d175db" />
 
 
 ### その他電子部品の実装
@@ -180,6 +191,7 @@
 `[画像プレースホルダ: ブートローダー認識画面]`
 
 ### 動作確認
+- `TODO: 電源スイッチ、リセットボタンの動作確認`
 - `TODO: キー入力テスト手順`
 - `TODO: 左右接続順の注意`
 - `TODO: レイヤー確認手順`
