@@ -10,27 +10,62 @@
 - はんだごての取り扱いなど、最低限の電子工作の知識や技術がある方を対象としています。
 
 ### 作業全体の目安
-- 想定作業時間: 60～180分 ※電子工作初心者はこの時間に囚われず、十分に時間をかけて作業してください
+- 想定作業時間: 60～180分 
 - 難易度: `TODO:難易度の定義が曖昧なので整理してから執筆。`
+
+> [!WARNING]
+> - 電子工作初心者の方はこの目安に囚われず、十分に時間をかけて作業して頂いて問題ありません。
 
 ## 準備
 
 ### キット内容物の確認
-- `TODO: キット内容物一覧（表）`
-- `TODO: 不足時の連絡先や確認手順`
+
+|パッキング | 内容 | 数量 | 単位 |
+| --- | --- | --: | --- |
+|-|カード|1|枚|
+|-|3DP製ケース|1|Set|
+|-|Socket|42|個|
+|-|スタンド|4|個|
+|ESDバッグ大|PCB本体|1|枚|
+|ESDバッグ小|PCBトラックパッド|2|枚|
+|ESDバッグ小|FFC6pin|2|枚|
+|ポチ袋①|5wayスイッチ|2|個|
+|ポチ袋①|LEDpipe|2|個|
+|ポチ袋①|マグネット|4|個|
+|ポチ袋②|オーバレイ|2|枚|
+|ポチ袋②|5wayノブ|2|個|
+|ポチ袋②|SW＆RSTパーツ|2|Set|
+|ポチ袋②|ガスケットパーツ|2|Set|
+|ポチ袋②|ゴム足|4|個|
 
 `[画像プレースホルダ: キット内容物の全体写真]`
 
-### 別途用意するもの（必須）
-- `TODO: 別途用意するもの一覧（表）`
+> [!WARNING]
+> - 内容物に不足があった場合、Boothのメッセージにてショップオーナーにお問い合わせください。
+> - 問い合わせへの対応は、購入履歴のあるBoothアカウントによるお問い合わせである事が条件となることを予めご了承ください。
 
-`[画像プレースホルダ: 必須部材の集合写真]`
 
-### 別途用意するもの（任意）
-- `TODO: その他オプション一覧（表）`
+### 別途用意するもの
+| 名前 | 数 | 備考 |参考商品|
+|:-|---:|:-|:-|
+|Seeed Studio XIAO nRF52840 Plus|2個|XIAO BLEの新バージョンです。9本の追加GPIOが使用でき、より高機能なデバイスに適しています。|[遊舎工房](https://shop.yushakobo.jp/products/10946) [beekeeb.jp](https://shop.beekeeb.jp/products/seeed-studio-xiao-nrf52840-plus) [千石電商](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-6TTL) [スイッチサイエンス](https://www.switch-science.com/products/10468)|
+|Kailh Choc V2互換スイッチ|42個|個人的に静音ではDeepSeaMiniがおすすめ。鳴らしつつ打鍵感の軽さを求める場合、COSMOXのShadow huntingをPBTキーキャップと組み合わせるとコリコリ感があって好みです。|[TALPKEYBOARD](https://shop.talpkeyboard.com/collections/kailh-chocv2) [遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V2%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) [Amazon](https://www.amazon.co.jp/dp/B0DSSS4MYJ/) |
+|MX軸ロープロファイルキーキャップ|42個|入手性の高さ、バリエーションの豊富さからWomierのPBTキーキャップをおすすめしています。 ※19mmピッチ用且つ、サイズは1Uが38個、1.5Uが4個必要です。|[Womier](https://womierkeyboard.com/products/skyline-r2) [Amazon](https://www.amazon.co.jp/stores/page/90526727-85E5-4BF8-AAD2-FC8A78C07BE3/search?ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto&terms=%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD)|
+|3.7Vリチウムポリマーバッテリー|2個|厚さ6.3mm幅47mm長さ110mm以下、JST PHコネクタ（ソケットのピッチ2.0mm）※[ソケットの極性に注意！](#%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)|[Amazon](https://www.amazon.co.jp/dp/B09DRJS75J/) [PHコネクタ単品](https://www.amazon.co.jp/dp/B01MXGWMS5/) |
+|USB-Cケーブル|2本|充電、ファームウェア書き込み用。何百回と抜き差しする事になるのでマグネット式がおすすめ。||
 
 ### 道具類
-- `TODO: 道具類一覧（表）`
+|優先度| 名前 | 備考 |参考商品|
+|---|:-|:-|:-|
+|必須|はんだごて|||
+|必須|糸ハンダ|使用するはんだ線によっては定着がイマイチらしい。ENGINEERのSW-41が評判良いです。|[amazon](https://www.amazon.co.jp/dp/B001D7ME7Q/)|
+|必須|ピンセット|はんだ中のパーツ固定用。||
+|大|フラックスクリーナー|フラックスで基板がべとべとになるので掃除用。無水エタノールやIPA等で代用可能。||
+|大|テスター|あると電源投入前に配線のショートをチェックできるので怖さが減ります。またトラブル発生時の問題の特定や、サポートのやりとりするために必須となっています。ワニ口タイプなら細いピン等を掴む事で細かい端子までチェックができます。|[amazon](https://www.amazon.co.jp/dp/B09S6Y9RM6/)|
+|中|ニッパー|基板の分離用。||
+|中|やすり|基板のばり取り。||
+|中|マスキングテープ|バッテリーの固定用。はんだ中にパーツを仮止めする用。||
+
 - `TODO: 道具ごとに必須レベルを追記`
 
 > [!WARNING]
