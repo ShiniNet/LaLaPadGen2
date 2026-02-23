@@ -192,6 +192,8 @@
 
 <img width="1025" height="891" alt="2026-02-23_16h18_00" src="https://github.com/user-attachments/assets/36512ba2-b328-448b-9684-c9a215a3a28e" /><BR/>
 
+### 動作確認前チェックポイント
+- ここまでの工程を両手側でそれぞれ完了させます。
 
 ## ファームウェア書き込みと初期動作確認（USB）
 
