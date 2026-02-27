@@ -209,8 +209,8 @@
 ## ファームウェア書き込みと初期動作確認（USB）
 
 ### 事前準備
-- 以下URLより`.uf2` の入ったZIPファイルを用意します（右手用・左手用・リセットファーム）。
-- https://github.com/ShiniNet/zmk-config-LalaPadGen2/actions/runs/22494788294/artifacts/5693725801
+- 以下URLより`.uf2` の入ったZIPファイルを用意します（右手用・左手用・リセットファーム）
+- https://github.com/ShiniNet/zmk-config-LalaPadGen2/actions/runs/22494788294/artifacts/5694684918
 
 <img width="701" height="320" alt="2026-02-23_20h06_15" src="https://github.com/user-attachments/assets/d466f08f-e738-4655-8130-0ad1c8a48268" /><BR/>
 
