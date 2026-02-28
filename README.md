@@ -39,7 +39,7 @@ LaLapad gen2 は、
 
 ## キットの詳細
 
-- 頒布ページ
+- [頒布ページ](https://shininet.booth.pm/items/8039543)
 - [ビルドガイド](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BuildGuide.md)
 - [ファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2)
 - [3Dモデルデータ](https://makerworld.com/ja/models/2441156-lalapad-gen2-keyboard-case#profileId-2678828)
