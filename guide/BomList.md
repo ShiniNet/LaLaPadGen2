@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 | マグネット | マグネット | N35 28x9x5mm |  | [Booth](https://shininet.booth.pm/)でも取扱予定 |
 | 外装 | オーバーレイ | 40x50mm | [amazon](https://www.amazon.co.jp/dp/B095X6NMDL/)  | 自分でカットする|
-| ケーブル | FFC | 6pin, 0.5mm pitch, 6cm, reverse type | [amazon](https://www.amazon.co.jp/dp/B0G2J9PV6X/)  [aliexpress](https://ja.aliexpress.com/item/10000013182312.html)  | |
+| ケーブル | FFC | 6pin, 0.5mm pitch, 5～6cm, reverse type | [amazon](https://www.amazon.co.jp/dp/B0G2J9PV6X/)  [aliexpress](https://ja.aliexpress.com/item/10000013182312.html)  | |
 | 機構部品 | スタンド | 約65.3 x 19.2 x 6 mm |  | |
 | 機構部品 | ゴム足 | 30x10x1mm | [aliexpress](https://ja.aliexpress.com/item/1005008164948206.html)  |自分でカットする |
 
