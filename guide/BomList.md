@@ -14,7 +14,7 @@
 | コネクタ | FPCコネクタ | 6pin, 0.5mm pitch |  | FPC-05F-6PH20 | [lcsc](https://www.lcsc.com/product-detail/C2856796.html)  | |
 | コネクタ | JST PHコネクタ | 2pin, 2.0mm, SMT横向き | JST | S2B-PH-SM4-TB | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655)  | |
 | キースイッチ部品 | Choc用ホットスワップソケット| Choc v1/v2対応 | Kailh | CPG135001S30 | [lcsc](https://www.lcsc.com/product-detail/C5333465.html)  | [Kailh公式ページ](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/choc-type-hot-swap-socket.html)  |
-| スイッチ | スライドスイッチ (SPDT) | SMD |  | MK-12C02-G020 | [lcsc](https://www.lcsc.com/product-detail/C963206.html)  | |
+| スイッチ | スライドスイッチ (SPDT) | SMD |  | MK-12C02-G020 | [lcsc](https://www.lcsc.com/product-detail/C963206.html)  | [Booth](https://shininet.booth.pm/items/7127414)でも取扱予定 |
 | スイッチ | 5方向スイッチ | SMD |  | K1-1504SA-06 | [lcsc](https://www.lcsc.com/product-detail/C136712.html)  | [Booth](https://shininet.booth.pm/)でも取扱予定|
 | スイッチ | タクトスイッチ | 2x4x3.5mm, SPST, SMD | YIZHI | YZA-021 | [lcsc](https://www.lcsc.com/product-detail/C49108617.html?s_z=n_YZA-021)  | |
 
