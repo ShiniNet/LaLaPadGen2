@@ -2,7 +2,7 @@
 ## トラックパッド（IQS9151）
 
 - 左右トラックパッド設定は以下にあります。
-  - `zmk-config-LalaPadGen2/config/lalapadgen2.conf`（左右共通）
+  - `zmk-config-LalaPadGen2/config/lalapadgen2.conf`
   - `zmk-config-LalaPadGen2/config/boards/shields/lalapadgen2/lalapadgen2_left.conf`
   - `zmk-config-LalaPadGen2/config/boards/shields/lalapadgen2/lalapadgen2_right.conf`
 - 設定反映ルールは以下です。
