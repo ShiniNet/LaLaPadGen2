@@ -1,4 +1,4 @@
-﻿# BOMリスト（ユーザー調達・換装向け）
+﻿# BOM - Bill of Materials（ユーザー調達・換装向け）
 
 
 > [!WARNING]
