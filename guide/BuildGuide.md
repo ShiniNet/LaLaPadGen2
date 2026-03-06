@@ -223,8 +223,8 @@
 
 ### 事前準備
 - [ファームウェアリポジトリのビルド履歴を開き、一番上にあるファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2/actions/workflows/build.yml)のZIPファイルを取得します。（右手用・左手用・リセットファーム全部入り）
-
-<img width="2004" height="826" alt="image" src="https://github.com/user-attachments/assets/c47ce15c-6cbe-4af5-afcd-6235fc22ebb2" />
+- 
+<img width="2004" height="826" alt="image" src="https://github.com/user-attachments/assets/dad9ec2b-0b76-431b-87c7-085425338b24" />
 <img width="701" height="320" alt="2026-02-23_20h06_15" src="https://github.com/user-attachments/assets/d466f08f-e738-4655-8130-0ad1c8a48268" /><BR/>
 
 ### 書き込み手順
