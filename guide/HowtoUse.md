@@ -116,6 +116,15 @@ LaLaPadGen2はZMKファームウェアを搭載しており、すべてのキー
 > - キーマップの変更やZMKのカスタムに関することは他のZMK系キーボードと大部分が共通しています。
 > - 本稿で扱いきれなかった具体的な作業手順やTIPS等がインターネット上に無数に公開されているので、適宜閲覧することを推奨いたします。
 > - ChatGPTを初めとするLLMにやりたいことを質問すると、的確な回答が得られると思います。
+
+
+> [!TIP]
+> - Github何もわからない人向けに、参考になりそうな[ガイド](https://note.com/razily/n/n42bdfaf4edb5?sub_rt=share_pb)を見つけたので紹介しておきます。
+
+[<img width="1280" height="670" alt="image" src="https://github.com/user-attachments/assets/5eec639b-35c4-4975-ae42-ac71f470a65a" />](https://note.com/razily/n/n42bdfaf4edb5?sub_rt=share_pb)
+
+
+
   
 ### [ZMK Studio（ベータ版）](https://zmk.studio/)を使用
 - Webブラウザ上で簡単に編集可能（USB経由）
