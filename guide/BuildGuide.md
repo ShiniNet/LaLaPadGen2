@@ -360,6 +360,12 @@
 
 <img width="1030" height="774" alt="2026-02-23_21h19_22" src="https://github.com/user-attachments/assets/ee0c3036-68b8-46fb-8a81-9e26396851b1" /><BR/>
 
+> [!TIP]
+> - スタンドの先端に任意のゴム足を貼り付けることで、平置き時の安定が増します。
+> - キット付属のゴム足を少しカットして転用するか、追加のゴム足が欲しい場合は[BOMに購入先](https://github.com/ShiniNet/LaLaPadGen2/blob/main/guide/BomList.md)があります。
+
+<img width="1546" height="1024" alt="image" src="https://github.com/user-attachments/assets/66a1e9a6-7d18-490e-b3ba-7c2f37ba467c" />
+
 
 ### ボトムケースへPCB＆バッテリーの組み込み
 - バッテリーをボトムケースへ固定します。
