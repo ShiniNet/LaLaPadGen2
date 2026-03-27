@@ -14,15 +14,15 @@
 | コネクタ | FPCコネクタ | 6pin, 0.5mm pitch |  | FPC-05F-6PH20 | [lcsc](https://www.lcsc.com/product-detail/C2856796.html)  | |
 | コネクタ | JST PHコネクタ | 2pin, 2.0mm, SMT横向き | JST | S2B-PH-SM4-TB | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655)  | |
 | キースイッチ部品 | Choc用ホットスワップソケット| Choc v1/v2対応 | Kailh | CPG135001S30 | [talpkeyboard](https://shop.talpkeyboard.com/products/choc-kailh-pcbsocket-10)　 | [Kailh公式ページ](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/choc-type-hot-swap-socket.html)  |
-| スイッチ | スライドスイッチ (SPDT) | SMD |  | MK-12C02-G020 | [lcsc](https://www.lcsc.com/product-detail/C963206.html)  | [Booth](https://shininet.booth.pm/items/7127414)でも取扱予定 |
-| スイッチ | 5方向スイッチ | SMD |  | K1-1504SA-06 | [lcsc](https://www.lcsc.com/product-detail/C136712.html)  | [Booth](https://shininet.booth.pm/)でも取扱予定|
+| スイッチ | スライドスイッチ (SPDT) | SMD |  | MK-12C02-G020 | [lcsc](https://www.lcsc.com/product-detail/C963206.html)  | [Booth](https://shininet.booth.pm/items/7127414)でも取扱中 |
+| スイッチ | 5方向スイッチ | SMD |  | K1-1504SA-06 | [lcsc](https://www.lcsc.com/product-detail/C136712.html)  | [Booth](https://shininet.booth.pm/items/8134571)でも取扱中|
 | スイッチ | タクトスイッチ | 2x4x3.5mm, SPST, SMD | YIZHI | YZA-021 | [lcsc](https://www.lcsc.com/product-detail/C49108617.html?s_z=n_YZA-021)  | |
 
 ## 2. 外装・機構部品
 
 | カテゴリ | 名称 | サイズ / 規格 | 購入URL | 備考 |
 |---|---|---|---|---|
-| マグネット | マグネット | N35 28x9x5mm |  | [Booth](https://shininet.booth.pm/)でも取扱予定 |
+| マグネット | マグネット | N35 28x9x5mm |  | [Booth](https://shininet.booth.pm/)で取扱予定 |
 | 外装 | オーバーレイ | 40x50mm | [amazon](https://www.amazon.co.jp/dp/B095X6NMDL/)  [aliexpress](https://ja.aliexpress.com/item/1005008859878162.html) | 自分でカットする|
 | ケーブル | FFC | 6pin, 0.5mm pitch, 5～6cm, reverse type | [amazon](https://www.amazon.co.jp/dp/B0G2J9PV6X/)  [aliexpress](https://ja.aliexpress.com/item/10000013182312.html)  | |
 | 機構部品 | スタンド | 約65.3 x 19.2 x 6 mm | [amazon](https://www.amazon.co.jp/dp/B0G2BL5LF1) [amazon](https://www.amazon.co.jp/dp/B0FSKF2CH6) | |
