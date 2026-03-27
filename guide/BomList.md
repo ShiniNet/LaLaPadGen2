@@ -30,5 +30,5 @@
 
 ## 3. その他
 - 交換用のトラックパッドPCBは[Booth](https://shininet.booth.pm/)にて取扱予定。
-- ケースなど樹脂部品は3Dデータを公開していますので、ユーザーの手元で生産可能です。
+- ケースなど樹脂部品は[3Dデータ](https://makerworld.com/ja/models/2441156-lalapad-gen2-keyboard-case#profileId-2678828)を公開していますので、ユーザーの手元で生産可能です。
 - 随時追記予定。
