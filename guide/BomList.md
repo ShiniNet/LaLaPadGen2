@@ -22,7 +22,7 @@
 
 | カテゴリ | 名称 | サイズ / 規格 | 購入URL | 備考 |
 |---|---|---|---|---|
-| マグネット | マグネット | N35 28x9x5mm |  | [Booth](https://shininet.booth.pm/)で取扱予定 |
+| マグネット | マグネット | N35 28x9x5mm |  | [Booth](https://shininet.booth.pm/items/8147684)でも取扱中 |
 | 外装 | オーバーレイ | 40x50mm | [amazon](https://www.amazon.co.jp/dp/B095X6NMDL/)  [aliexpress](https://ja.aliexpress.com/item/1005008859878162.html) | 自分でカットする|
 | ケーブル | FFC | 6pin, 0.5mm pitch, 5～6cm, reverse type | [amazon](https://www.amazon.co.jp/dp/B0G2J9PV6X/)  [aliexpress](https://ja.aliexpress.com/item/10000013182312.html)  | |
 | 機構部品 | スタンド | 約65.3 x 19.2 x 6 mm | [amazon](https://www.amazon.co.jp/dp/B0G2BL5LF1) [amazon](https://www.amazon.co.jp/dp/B0FSKF2CH6) | |
