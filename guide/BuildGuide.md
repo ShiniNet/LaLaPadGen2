@@ -242,9 +242,9 @@
 ## ファームウェア書き込みと初期動作確認（USB）
 
 ### 事前準備
-- [ファームウェアリポジトリのビルド履歴を開き、一番上にあるファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2/actions/workflows/build.yml)のZIPファイルを取得します。（右手用・左手用・リセットファーム全部入り）
-- 
-<img width="2004" height="826" alt="image" src="https://github.com/user-attachments/assets/dad9ec2b-0b76-431b-87c7-085425338b24" />
+- [ファームウェアリポジトリのリリースページ](https://github.com/ShiniNet/zmk-config-LalaPadGen2/releases/)を開き、添付ファイルの"firmware_vXx.X.X.zip"を取得します。（右手用・左手用・リセットファーム全部入り）
+
+<img width="1262" height="747" alt="image" src="https://github.com/user-attachments/assets/3d53d3da-1d57-42c7-aafd-645eeca2aee9" />
 <img width="701" height="320" alt="2026-02-23_20h06_15" src="https://github.com/user-attachments/assets/d466f08f-e738-4655-8130-0ad1c8a48268" /><BR/>
 
 ### 書き込み手順
@@ -539,7 +539,7 @@
 
 ## その他ソフトウェア・ハードウェアの問題切り分け（未整理）
 - リセットファームウェアを投入してからLaLaPadGen2のデフォルトファームウェアを投入し、USBでPCに接続し動作確認（キャッシュ＆改変されたファームの問題切り分け）
-- 最新のファームウェアを使用していますか？[ファームウェアリポジトリのビルド履歴を開き、一番上にあるファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2/actions/workflows/build.yml)を取得して、再試行してみてください。
+- 最新のファームウェアを使用していますか？[ファームウェアリポジトリのリリースページを開き、一番上にあるファームウェア](https://github.com/ShiniNet/zmk-config-LalaPadGen2/releases/)を取得して、再試行してみてください。
 - 逆に、古いファームウェアでは動作しますか？ZMK本家側の何らかの更新が影響している可能性があります。
 - PCに接続時、ZMK Studioの画面を開いていないこと。（再接続時に画面上の内容でキーボードの設定が上書きされる可能性。）
 - 左右キーボードの電源が切られていることを確認し、ICから電荷を十分に抜いてから右手側、左手側の順番に起動する。
