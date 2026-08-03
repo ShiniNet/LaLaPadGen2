@@ -242,7 +242,7 @@
 ## ファームウェア書き込みと初期動作確認（USB）
 
 ### 事前準備
-- [ファームウェアリポジトリのリリースページ](https://github.com/ShiniNet/zmk-config-LalaPadGen2/releases/)を開き、添付ファイルの"firmware_vXx.X.X.zip"を取得します。（右手用・左手用・リセットファーム全部入り）
+- [ファームウェアリポジトリのリリースページ](https://github.com/ShiniNet/zmk-config-LalaPadGen2/releases/)を開き、添付ファイルの"firmware_vX.X.X.zip"を取得します。（右手用・左手用・リセットファーム全部入り）
 
 <img width="1262" height="747" alt="image" src="https://github.com/user-attachments/assets/3d53d3da-1d57-42c7-aafd-645eeca2aee9" />
 <img width="701" height="320" alt="2026-02-23_20h06_15" src="https://github.com/user-attachments/assets/d466f08f-e738-4655-8130-0ad1c8a48268" /><BR/>
